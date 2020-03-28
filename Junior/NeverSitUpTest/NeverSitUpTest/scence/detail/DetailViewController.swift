@@ -28,7 +28,7 @@ class DetailViewController: UIViewController {
             self.isPremiumLabel.text = (detail.isCustomerPremium ?? false) ? "Premium" : "Non-Premuim"
             self.sexLabel.text = detail.sex
             self.idLabel.text = detail.id
-            self.customerGradeLabel.text = "Grade : \(detail.customerGrade)"
+            self.customerGradeLabel.text = "Grade : \(detail.customerGrade ?? " - ")"
         }
     }
 }

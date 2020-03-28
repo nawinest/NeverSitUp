@@ -20,7 +20,6 @@
 		8A4656DF242F039500510CE8 /* TokenResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4656DE242F039500510CE8 /* TokenResponse.swift */; };
 		8A4656EC242F096100510CE8 /* DashboardStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A4656E3242F096100510CE8 /* DashboardStoryboard.storyboard */; };
 		8A4656F1242F096100510CE8 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4656E8242F096100510CE8 /* DashboardViewController.swift */; };
-		8A4656F4242F096100510CE8 /* DashboardService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4656EB242F096100510CE8 /* DashboardService.swift */; };
 		8A4656FB242F0A7300510CE8 /* CustomerCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4656F9242F0A7300510CE8 /* CustomerCellView.swift */; };
 		8A4656FC242F0A7300510CE8 /* CustomerCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A4656FA242F0A7300510CE8 /* CustomerCellView.xib */; };
 		8A4656FF242F0EF800510CE8 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4656FE242F0EF800510CE8 /* APIManager.swift */; };
@@ -68,7 +67,6 @@
 		8A4656DE242F039500510CE8 /* TokenResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenResponse.swift; sourceTree = "<group>"; };
 		8A4656E3242F096100510CE8 /* DashboardStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DashboardStoryboard.storyboard; sourceTree = "<group>"; };
 		8A4656E8242F096100510CE8 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
-		8A4656EB242F096100510CE8 /* DashboardService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardService.swift; sourceTree = "<group>"; };
 		8A4656F9242F0A7300510CE8 /* CustomerCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerCellView.swift; sourceTree = "<group>"; };
 		8A4656FA242F0A7300510CE8 /* CustomerCellView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomerCellView.xib; sourceTree = "<group>"; };
 		8A4656FE242F0EF800510CE8 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
@@ -193,7 +191,6 @@
 				8A465700242F178600510CE8 /* detail */,
 				8A4656E3242F096100510CE8 /* DashboardStoryboard.storyboard */,
 				8A4656E8242F096100510CE8 /* DashboardViewController.swift */,
-				8A4656EB242F096100510CE8 /* DashboardService.swift */,
 				8A4656F9242F0A7300510CE8 /* CustomerCellView.swift */,
 				8A4656FA242F0A7300510CE8 /* CustomerCellView.xib */,
 			);
@@ -481,7 +478,6 @@
 				8A465715242F1CC300510CE8 /* DetailModel.swift in Sources */,
 				8A4656DF242F039500510CE8 /* TokenResponse.swift in Sources */,
 				8A4656B0242F004700510CE8 /* SceneDelegate.swift in Sources */,
-				8A4656F4242F096100510CE8 /* DashboardService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
