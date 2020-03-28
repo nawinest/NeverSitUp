@@ -1,0 +1,6 @@
+framework module Pods_NeverSitUpTest {
+  umbrella header "Pods-NeverSitUpTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
